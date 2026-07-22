@@ -21,11 +21,11 @@ const Footer = () => {
       </p>
 
       <div className="flex gap-8 mt-6">
-        <img src="https://bookoe.netlify.app/lucide-Facebook-Outlined.svg" className="hover:scale-110 hover:brightness-150 transition cursor-pointer" />
-        <img src="https://bookoe.netlify.app/lucide-Twitter-Outlined.svg" className="hover:scale-110 hover:brightness-150 transition cursor-pointer" />
-        <img src="https://bookoe.netlify.app/lucide-Instagram-Outlined.svg" className="hover:scale-110 hover:brightness-150 transition cursor-pointer" />
-        <img src="https://bookoe.netlify.app/lucide-Linkedin-Outlined.svg" className="hover:scale-110 hover:brightness-150 transition cursor-pointer" />
-        <img src="https://bookoe.netlify.app/lucide-Youtube-Outlined.svg" className="hover:scale-110 hover:brightness-150 transition cursor-pointer" />
+        <img alt="facebook" src="https://bookoe.netlify.app/lucide-Facebook-Outlined.svg" className="hover:scale-110 hover:brightness-150 transition cursor-pointer" />
+        <img alt="twitter" src="https://bookoe.netlify.app/lucide-Twitter-Outlined.svg" className="hover:scale-110 hover:brightness-150 transition cursor-pointer" />
+        <img alt="instagram" src="https://bookoe.netlify.app/lucide-Instagram-Outlined.svg" className="hover:scale-110 hover:brightness-150 transition cursor-pointer" />
+        <img alt="linkdin" src="https://bookoe.netlify.app/lucide-Linkedin-Outlined.svg" className="hover:scale-110 hover:brightness-150 transition cursor-pointer" />
+        <img alt="youtube" src="https://bookoe.netlify.app/lucide-Youtube-Outlined.svg" className="hover:scale-110 hover:brightness-150 transition cursor-pointer" />
       </div>
 
     </div>
